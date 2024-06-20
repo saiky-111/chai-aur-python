@@ -9,3 +9,13 @@ def chai(n): #basically defined a function, name is chai, it takes input n, n ca
 
 chai("lemon tea")
 chai(4) # now anyhting you write inside it, will get printed.
+
+
+
+
+#Python in Shell
+
+chai_one = "lemon tea"
+chai_two = "ginger tea"
+chai_three = "masala chai"
+chai_four = "nasty tea"
